@@ -1,4 +1,4 @@
-<h2>使用织梦dedecms建设医疗网站实战视频课程</h2>
+<h2>使用织梦dedecms建设医疗网站实战视频课程(共14小时44分钟)</h2>
 <table border="2" bordercolor="black" cellspacing="0" cellpadding="5">
 <tr><td>1</td><td><a href="http://edu.51cto.com/course/1836.html">第一章 学前准备-入门介绍</a></td><th>:white_check_mark:</th></tr>
 <tr><td>2</td><td><a href="http://edu.51cto.com/course/1836.html">第一章 学前准备-php运行环境以及安装织梦</a></td><th>:white_check_mark:</th></tr>
