@@ -1,4 +1,4 @@
-<h2>HTML+DIV+CSS零基础快速入门到制作企业站视频课程</h2>
+<h2>HTML+DIV+CSS零基础快速入门到制作企业站视频课程</h2>(共7小时18分钟)
 <table border="2" bordercolor="black" cellspacing="0" cellpadding="5">
 <tr><td>1</td><td><a href="http://edu.51cto.com/center/course/index/index?id=6849">html标题-段落-图片-链接</a></td><th>:white_check_mark:</th><td></td><td>16</td><td><a href="http://edu.51cto.com/center/course/index/index?id=6849">css 盒模型[padding]</a></td><th></th></tr>
 <tr><td>2</td><td><a href="http://edu.51cto.com/center/course/index/index?id=6849">html列表的用法</a></td><th>:white_check_mark:</th><td></td><td>17</td><td><a href="http://edu.51cto.com/center/course/index/index?id=6849">css盒模型[margin计算]</a></td><th></th></tr>
